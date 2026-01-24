@@ -26,7 +26,19 @@ I am a self-taught programmer with 10 years of experience, currently leading bac
 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&v=3)<br/>
-![](https://streak-stats.demolab.com/?user=aranya-code&theme=dark&hide_border=false&v=3)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&v=3)
+## 📊 GitHub Stats
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=aranya-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800"
+  alt="GitHub stats"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=aranya-code&theme=dark"
+  alt="GitHub streak"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aranya-code&layout=compact&theme=dark&langs_count=8"
+/>
+
