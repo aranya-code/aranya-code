@@ -15,9 +15,15 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 # 📊 GitHub Stats:
-[![GitHub Stats](https://readme-stats-beige-nu.vercel.app/api?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
-![GitHub Streak](https://github-streak-stats-xi.vercel.app/?user=aranya-code&theme=highcontrast)<br/>
-[![Top Langs](https://readme-stats-beige-nu.vercel.app/api/top-langs/?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+
+![GitHub Stats](https://readme-stats-beige-nu.vercel.app/api?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-streak-stats-xi.vercel.app/?user=aranya-code&theme=dark)
+
+![Top Langs](https://readme-stats-beige-nu.vercel.app/api/top-langs/?username=aranya-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
