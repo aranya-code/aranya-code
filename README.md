@@ -35,6 +35,14 @@
   <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=PracticeQuestionsDSA&theme=dark" />
 </a>
 
+<br>
+<br>
+
+<a href="https://github.com/aranya-code?tab=repositories">
+  <img src="https://img.shields.io/badge/See_All_Repositories-1f2328?style=for-the-badge&logo=github&logoColor=white" alt="See All Repositories"/>
+</a>
+
+
 </div>
 
 # 📊 GitHub Stats:
