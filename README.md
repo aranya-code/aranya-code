@@ -31,8 +31,8 @@
 <a href="https://github.com/aranya-code/LeetCode-ProblemSets">
   <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=LeetCode-ProblemSets&theme=dark" />
 </a>
-<a href="https://github.com/aranya-code/PracticeQuestionsDSA">
-  <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=PracticeQuestionsDSA&theme=dark" />
+<a href="https://github.com/aranya-code/FastAPI_Backend_RD_Lab">
+  <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=FastAPI_Backend_RD_Lab&theme=dark" />
 </a>
 
 <br>
