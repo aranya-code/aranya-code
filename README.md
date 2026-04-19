@@ -40,7 +40,7 @@
 <br/>
 
 <a href="https://github.com/aranya-code/Movies_DRF">
-  <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Movies_DRF&theme=dark" />
+  <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Movies_DRF&v=1&theme=dark" />
 </a>
 
 <br>
