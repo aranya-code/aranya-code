@@ -37,6 +37,12 @@
   <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=FastAPI_Backend_RD_Lab&theme=dark" />
 </a>
 
+<br/>
+
+<a href="https://github.com/aranya-code/Movies_DRF">
+  <img align="center" src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Movies_DRF&theme=dark" />
+</a>
+
 <br>
 <br>
 
