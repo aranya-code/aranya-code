@@ -30,8 +30,8 @@
 <tr>
 <td>
 
-<a href="https://github.com/aranya-code/Django_WebFramework_RD_Lab">
-  <img src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Django_WebFramework_RD_Lab&theme=dark" />
+<a href="https://github.com/aranya-code/backend-engineering-playbook">
+  <img src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=backend-engineering-playbook&theme=dark" />
 </a>
 
 </td>
@@ -47,8 +47,8 @@
 <tr>
 <td>
 
-<a href="https://github.com/aranya-code/Movies_DRF">
-  <img src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Movies_DRF&theme=dark" />
+<a href="https://github.com/aranya-code/Django_WebFramework_RD_Lab">
+  <img src="https://readme-stats-beige-nu.vercel.app/api/pin/?username=aranya-code&repo=Django_WebFramework_RD_Lab&theme=dark" />
 </a>
 
 </td>
