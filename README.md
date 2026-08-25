@@ -11,7 +11,7 @@
          width="40" />
   </a>
 
-  <a href="https://leetcode.com/u/D32ZpXrfYE/" target="_blank">
+  <a href="https://leetcode.com/u/aranya-code/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
          alt="leetcode"
          height="30"
